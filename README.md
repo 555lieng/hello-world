@@ -2,3 +2,5 @@
 my first repository
 
 new change
+
+check pull
